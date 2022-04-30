@@ -1,1 +1,2 @@
 Testing git
+Updating the file
